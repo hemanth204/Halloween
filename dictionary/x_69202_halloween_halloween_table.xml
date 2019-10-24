@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Halloween Table" max_length="40" name="x_69202_halloween_halloween_table" type="collection">
+        <element label="Date of Event" max_length="40" name="date_of_event" type="glide_date"/>
         <element label="Name of Participant" max_length="40" name="name_of_participant" type="string"/>
+        <element label="TIme" max_length="40" name="time" type="glide_date_time"/>
     </element>
 </database>
